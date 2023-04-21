@@ -1,6 +1,6 @@
 # CS-255-System-Analysis-and-Design
 
-Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design? 
+Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
   In the DriverPass project, the client was a Driver Training business who wanted to have a system that would allow their clients to access everything that they needed online through a web browser. They wanted a system that would allow the client to create an account, pick and purchase a package of online courses and driving lessons, and schedule the driving lessons. They also wanted the system to be flexible and cloud based, to minimize upkeep costs for the business.
 
 What did you do particularly well?
