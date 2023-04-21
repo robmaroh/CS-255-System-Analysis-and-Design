@@ -8,7 +8,9 @@ What did you do particularly well?
 
 If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
   I feel that I could have created cleaner, more streamlined UML diagrams to make sure that the main points were considered, without overloading the diagram. I would compress the different modules to have less details, but still show what it was designed for.
+  
 How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
   I considered each of the user's needs by thinking about how the user would actually use the system and what would be needed to support that use. If the system does not meet the needs of the user, it will not get used. The system should work so well that the user does not even think about how the system is working.
+  
 How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
   I would consider what different needs and use cases the client has, such as having unique profiles for each user, and then make sure that need is supported in the software, and is outlined in the UML Class Diagram. By looking at the system from the user's point of view, I can then decide how the system needs to be designed to make it as easy as possible for the user to interact with the system. The user should not have to think about how the system works under the hood, it should just do what the user wants it to do.
